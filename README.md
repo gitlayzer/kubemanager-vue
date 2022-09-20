@@ -3,7 +3,7 @@
 
 
 ### 使用方法：
-
+```shell
 第一：进入kubemanager-vue修改下/src/views/common下的Config.js内的后端接口将"http://localhost:9090/"替换为后端的接口地址即可
 
 第二：npm install        # 安装前端依赖 前提是需要注意运行目录，是在kubemanager-vue目录下。
